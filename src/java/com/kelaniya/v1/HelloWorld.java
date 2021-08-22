@@ -1,4 +1,4 @@
-package com.kelaniya.uni;
+package com.kelaniya.v1;
 
 public class HelloWorld {
 
