@@ -2,5 +2,5 @@ package com.kelaniya.v5.input;
 
 public interface Inputs {
 
-    String getOperator();
+    String getOperator() throws InvalidInputException;
 }
